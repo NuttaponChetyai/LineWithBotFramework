@@ -1,2 +1,2 @@
 # LineWithBotFramework
-Linebot with Botframework for sinet
+Template Linebot with Microsoft bot framework 
