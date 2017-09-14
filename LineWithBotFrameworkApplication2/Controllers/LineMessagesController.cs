@@ -233,7 +233,7 @@ namespace LineWithBotFrameworkApplication2.Controllers
                         {
                             if (status)
                             {
-                                mes.Add(new TextMessage("กรุณารอสักครู่กำลังทำรายการ"));
+                                mes.Add(new TextMessage("กรุณารอสักครู่กำลังทำรายการนะจ้ะ"));
                                 await Reply(mes);
                                 mes.Clear();
                                 var strres = textMessage.Text.Replace("report-", "");
